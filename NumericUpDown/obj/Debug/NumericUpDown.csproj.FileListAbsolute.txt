@@ -1,0 +1,12 @@
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\NumericUpDown\bin\Debug\NumericUpDown.exe.config
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\NumericUpDown\bin\Debug\NumericUpDown.exe
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\NumericUpDown\bin\Debug\NumericUpDown.pdb
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\NumericUpDown\obj\Debug\NumericUpDown.csproj.AssemblyReference.cache
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\NumericUpDown\obj\Debug\NumericUpDown.Form1.resources
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\NumericUpDown\obj\Debug\NumericUpDown.Properties.Resources.resources
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\NumericUpDown\obj\Debug\NumericUpDown.csproj.GenerateResource.cache
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\NumericUpDown\obj\Debug\NumericUpDown.csproj.CoreCompileInputs.cache
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\NumericUpDown\obj\Debug\NumericUpDown.exe
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\NumericUpDown\obj\Debug\NumericUpDown.pdb
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\NumericUpDown\obj\Debug\NumericUpDown.exe.config
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\NumericUpDown\obj\Debug\NumericUpDown.Form2.resources

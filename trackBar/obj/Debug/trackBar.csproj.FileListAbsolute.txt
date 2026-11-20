@@ -1,0 +1,11 @@
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\trackBar\bin\Debug\trackBar.exe.config
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\trackBar\bin\Debug\trackBar.exe
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\trackBar\bin\Debug\trackBar.pdb
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\trackBar\obj\Debug\trackBar.csproj.AssemblyReference.cache
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\trackBar\obj\Debug\trackBar.Form1.resources
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\trackBar\obj\Debug\trackBar.Properties.Resources.resources
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\trackBar\obj\Debug\trackBar.csproj.GenerateResource.cache
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\trackBar\obj\Debug\trackBar.csproj.CoreCompileInputs.cache
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\trackBar\obj\Debug\trackBar.exe
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\trackBar\obj\Debug\trackBar.pdb
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\trackBar\obj\Debug\trackBar.exe.config

@@ -1,0 +1,11 @@
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\ProgressBar\bin\Debug\ProgressBar.exe.config
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\ProgressBar\bin\Debug\ProgressBar.exe
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\ProgressBar\bin\Debug\ProgressBar.pdb
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\ProgressBar\obj\Debug\ProgressBar.csproj.AssemblyReference.cache
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\ProgressBar\obj\Debug\ProgressBar.Form1.resources
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\ProgressBar\obj\Debug\ProgressBar.Properties.Resources.resources
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\ProgressBar\obj\Debug\ProgressBar.csproj.GenerateResource.cache
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\ProgressBar\obj\Debug\ProgressBar.csproj.CoreCompileInputs.cache
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\ProgressBar\obj\Debug\ProgressBar.exe
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\ProgressBar\obj\Debug\ProgressBar.pdb
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\ProgressBar\obj\Debug\ProgressBar.exe.config

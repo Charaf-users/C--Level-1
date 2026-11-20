@@ -1,0 +1,7 @@
+C:\Users\charaf eddine jador\Desktop\C#-Level1\C#Math\bin\Debug\C#Math.exe.config
+C:\Users\charaf eddine jador\Desktop\C#-Level1\C#Math\bin\Debug\C#Math.exe
+C:\Users\charaf eddine jador\Desktop\C#-Level1\C#Math\bin\Debug\C#Math.pdb
+C:\Users\charaf eddine jador\Desktop\C#-Level1\C#Math\obj\Debug\C#Math.csproj.AssemblyReference.cache
+C:\Users\charaf eddine jador\Desktop\C#-Level1\C#Math\obj\Debug\C#Math.csproj.CoreCompileInputs.cache
+C:\Users\charaf eddine jador\Desktop\C#-Level1\C#Math\obj\Debug\C#Math.exe
+C:\Users\charaf eddine jador\Desktop\C#-Level1\C#Math\obj\Debug\C#Math.pdb

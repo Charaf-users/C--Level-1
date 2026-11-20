@@ -1,0 +1,10 @@
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\WinForm_Format&TabIndex\bin\Debug\WinForm_Format&TabIndex.exe.config
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\WinForm_Format&TabIndex\bin\Debug\WinForm_Format&TabIndex.exe
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\WinForm_Format&TabIndex\bin\Debug\WinForm_Format&TabIndex.pdb
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\WinForm_Format&TabIndex\obj\Debug\WinForm_Format&TabIndex.csproj.AssemblyReference.cache
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\WinForm_Format&TabIndex\obj\Debug\WinForm_Format_TabIndex.Form1.resources
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\WinForm_Format&TabIndex\obj\Debug\WinForm_Format_TabIndex.Properties.Resources.resources
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\WinForm_Format&TabIndex\obj\Debug\WinForm_Format&TabIndex.csproj.GenerateResource.cache
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\WinForm_Format&TabIndex\obj\Debug\WinForm_Format&TabIndex.csproj.CoreCompileInputs.cache
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\WinForm_Format&TabIndex\obj\Debug\WinForm_Format&TabIndex.exe
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\WinForm_Format&TabIndex\obj\Debug\WinForm_Format&TabIndex.pdb

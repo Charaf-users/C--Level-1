@@ -1,0 +1,11 @@
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\Drawing\bin\Debug\Drawing.exe.config
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\Drawing\bin\Debug\Drawing.exe
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\Drawing\bin\Debug\Drawing.pdb
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\Drawing\obj\Debug\Drawing.csproj.AssemblyReference.cache
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\Drawing\obj\Debug\Drawing.Form1.resources
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\Drawing\obj\Debug\Drawing.Properties.Resources.resources
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\Drawing\obj\Debug\Drawing.csproj.GenerateResource.cache
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\Drawing\obj\Debug\Drawing.csproj.CoreCompileInputs.cache
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\Drawing\obj\Debug\Drawing.exe
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\Drawing\obj\Debug\Drawing.pdb
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\Drawing\obj\Debug\Drawing.exe.config

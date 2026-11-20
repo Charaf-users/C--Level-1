@@ -1,0 +1,11 @@
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\SecureCrypt_Project\bin\Debug\SecureCrypt_Project.exe.config
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\SecureCrypt_Project\bin\Debug\SecureCrypt_Project.exe
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\SecureCrypt_Project\bin\Debug\SecureCrypt_Project.pdb
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\SecureCrypt_Project\obj\Debug\SecureCrypt_Project.csproj.AssemblyReference.cache
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\SecureCrypt_Project\obj\Debug\SecureCrypt_Project.Properties.Resources.resources
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\SecureCrypt_Project\obj\Debug\SecureCrypt_Project.csproj.GenerateResource.cache
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\SecureCrypt_Project\obj\Debug\SecureCrypt_Project.csproj.CoreCompileInputs.cache
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\SecureCrypt_Project\obj\Debug\SecureCrypt_Project.exe
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\SecureCrypt_Project\obj\Debug\SecureCrypt_Project.pdb
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\SecureCrypt_Project\obj\Debug\SecureCrypt_Project.exe.config
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\SecureCrypt_Project\obj\Debug\SecureCrypt_Project.Form.resources

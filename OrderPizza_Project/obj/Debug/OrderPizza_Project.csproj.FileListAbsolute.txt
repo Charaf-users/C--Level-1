@@ -1,0 +1,11 @@
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\OrderPizza_Project\bin\Debug\OrderPizza_Project.exe.config
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\OrderPizza_Project\bin\Debug\OrderPizza_Project.exe
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\OrderPizza_Project\bin\Debug\OrderPizza_Project.pdb
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\OrderPizza_Project\obj\Debug\OrderPizza_Project.csproj.AssemblyReference.cache
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\OrderPizza_Project\obj\Debug\OrderPizza_Project.Form1.resources
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\OrderPizza_Project\obj\Debug\OrderPizza_Project.Properties.Resources.resources
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\OrderPizza_Project\obj\Debug\OrderPizza_Project.csproj.GenerateResource.cache
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\OrderPizza_Project\obj\Debug\OrderPizza_Project.csproj.CoreCompileInputs.cache
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\OrderPizza_Project\obj\Debug\OrderPizza_Project.exe
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\OrderPizza_Project\obj\Debug\OrderPizza_Project.pdb
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\OrderPizza_Project\obj\Debug\OrderPizza_Project.exe.config

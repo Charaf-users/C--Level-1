@@ -1,0 +1,11 @@
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\LinkLabel\bin\Debug\LinkLabel.exe.config
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\LinkLabel\bin\Debug\LinkLabel.exe
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\LinkLabel\bin\Debug\LinkLabel.pdb
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\LinkLabel\obj\Debug\LinkLabel.csproj.AssemblyReference.cache
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\LinkLabel\obj\Debug\LinkLabel.Form1.resources
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\LinkLabel\obj\Debug\LinkLabel.Properties.Resources.resources
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\LinkLabel\obj\Debug\LinkLabel.csproj.GenerateResource.cache
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\LinkLabel\obj\Debug\LinkLabel.csproj.CoreCompileInputs.cache
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\LinkLabel\obj\Debug\LinkLabel.exe
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\LinkLabel\obj\Debug\LinkLabel.pdb
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\LinkLabel\obj\Debug\LinkLabel.exe.config

@@ -1,0 +1,12 @@
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\WinForms_ShowForm&showDialog&close\bin\Debug\WinForms_ShowForm&showDialog&close.exe.config
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\WinForms_ShowForm&showDialog&close\bin\Debug\WinForms_ShowForm&showDialog&close.exe
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\WinForms_ShowForm&showDialog&close\bin\Debug\WinForms_ShowForm&showDialog&close.pdb
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\WinForms_ShowForm&showDialog&close\obj\Debug\WinForms_ShowForm&showDialog&close.csproj.AssemblyReference.cache
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\WinForms_ShowForm&showDialog&close\obj\Debug\WinForms_ShowForm_showDialog_close.Form1.resources
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\WinForms_ShowForm&showDialog&close\obj\Debug\WinForms_ShowForm_showDialog_close.Form2.resources
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\WinForms_ShowForm&showDialog&close\obj\Debug\WinForms_ShowForm_showDialog_close.Properties.Resources.resources
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\WinForms_ShowForm&showDialog&close\obj\Debug\WinForms_ShowForm&showDialog&close.csproj.GenerateResource.cache
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\WinForms_ShowForm&showDialog&close\obj\Debug\WinForms_ShowForm&showDialog&close.csproj.CoreCompileInputs.cache
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\WinForms_ShowForm&showDialog&close\obj\Debug\WinForms_ShowForm&showDialog&close.exe
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\WinForms_ShowForm&showDialog&close\obj\Debug\WinForms_ShowForm&showDialog&close.pdb
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\WinForms_ShowForm&showDialog&close\obj\Debug\WinForms_ShowForm&showDialog&close.exe.config

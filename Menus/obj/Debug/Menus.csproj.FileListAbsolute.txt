@@ -1,0 +1,13 @@
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\Menus\bin\Debug\Menus.exe.config
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\Menus\bin\Debug\Menus.exe
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\Menus\bin\Debug\Menus.pdb
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\Menus\obj\Debug\Menus.csproj.AssemblyReference.cache
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\Menus\obj\Debug\Menus.AddProduct.resources
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\Menus\obj\Debug\Menus.Form1.resources
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\Menus\obj\Debug\Menus.Properties.Resources.resources
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\Menus\obj\Debug\Menus.ViewProduct.resources
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\Menus\obj\Debug\Menus.csproj.GenerateResource.cache
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\Menus\obj\Debug\Menus.csproj.CoreCompileInputs.cache
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\Menus\obj\Debug\Menus.exe
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\Menus\obj\Debug\Menus.pdb
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\Menus\obj\Debug\Menus.exe.config

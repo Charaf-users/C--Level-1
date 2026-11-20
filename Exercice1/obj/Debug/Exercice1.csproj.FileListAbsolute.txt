@@ -1,0 +1,8 @@
+C:\Users\charaf eddine jador\Desktop\C#-Level1\Exercice1\bin\Debug\Exercice1.exe.config
+C:\Users\charaf eddine jador\Desktop\C#-Level1\Exercice1\bin\Debug\Exercice1.exe
+C:\Users\charaf eddine jador\Desktop\C#-Level1\Exercice1\bin\Debug\Exercice1.pdb
+C:\Users\charaf eddine jador\Desktop\C#-Level1\Exercice1\obj\Debug\Exercice1.csproj.AssemblyReference.cache
+C:\Users\charaf eddine jador\Desktop\C#-Level1\Exercice1\obj\Debug\Exercice1.csproj.CoreCompileInputs.cache
+C:\Users\charaf eddine jador\Desktop\C#-Level1\Exercice1\obj\Debug\Exercice1.exe
+C:\Users\charaf eddine jador\Desktop\C#-Level1\Exercice1\obj\Debug\Exercice1.pdb
+C:\Users\charaf eddine jador\Desktop\C#-Level1\Exercice1\obj\Debug\Exercice1.exe.config

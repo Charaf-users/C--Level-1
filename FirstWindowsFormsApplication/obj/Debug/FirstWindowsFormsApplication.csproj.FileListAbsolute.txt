@@ -1,0 +1,14 @@
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\FirstWindowsFormsApplication\obj\Debug\FirstWindowsFormsApplication.csproj.AssemblyReference.cache
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\FirstWindowsFormsApplication\obj\Debug\FirstWindowsFormsApplication.Form1.resources
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\FirstWindowsFormsApplication\obj\Debug\FirstWindowsFormsApplication.Properties.Resources.resources
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\FirstWindowsFormsApplication\obj\Debug\FirstWindowsFormsApplication.csproj.GenerateResource.cache
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\FirstWindowsFormsApplication\obj\Debug\FirstWindowsFormsApplication.csproj.CoreCompileInputs.cache
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\FirstWindowsFormsApplication\bin\Debug\FirstWindowsFormsApplication.exe.config
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\FirstWindowsFormsApplication\bin\Debug\FirstWindowsFormsApplication.exe
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\FirstWindowsFormsApplication\bin\Debug\FirstWindowsFormsApplication.pdb
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\FirstWindowsFormsApplication\obj\Debug\FirstWindowsFormsApplication.exe
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\FirstWindowsFormsApplication\obj\Debug\FirstWindowsFormsApplication.pdb
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\FirstWindowsFormsApplication\obj\Debug\FirstWindowsFormsApplication.exe.config
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\FirstWindowsFormsApplication\obj\Debug\FirstWindowsFormsApplication.Form2.resources
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\FirstWindowsFormsApplication\obj\Debug\FirstWindowsFormsApplication.MessageBoxForm.resources
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\FirstWindowsFormsApplication\obj\Debug\FirstWindowsFormsApplication.Form3.resources

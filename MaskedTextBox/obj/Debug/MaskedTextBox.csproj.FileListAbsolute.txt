@@ -1,0 +1,11 @@
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\MaskedTextBox\bin\Debug\MaskedTextBox.exe.config
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\MaskedTextBox\bin\Debug\MaskedTextBox.exe
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\MaskedTextBox\bin\Debug\MaskedTextBox.pdb
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\MaskedTextBox\obj\Debug\MaskedTextBox.csproj.AssemblyReference.cache
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\MaskedTextBox\obj\Debug\MaskedTextBox.Form1.resources
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\MaskedTextBox\obj\Debug\MaskedTextBox.Properties.Resources.resources
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\MaskedTextBox\obj\Debug\MaskedTextBox.csproj.GenerateResource.cache
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\MaskedTextBox\obj\Debug\MaskedTextBox.csproj.CoreCompileInputs.cache
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\MaskedTextBox\obj\Debug\MaskedTextBox.exe
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\MaskedTextBox\obj\Debug\MaskedTextBox.pdb
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\MaskedTextBox\obj\Debug\MaskedTextBox.exe.config

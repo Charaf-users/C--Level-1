@@ -1,0 +1,7 @@
+C:\Users\charaf eddine jador\Desktop\C#-Level1\Array\bin\Debug\Array.exe.config
+C:\Users\charaf eddine jador\Desktop\C#-Level1\Array\bin\Debug\Array.exe
+C:\Users\charaf eddine jador\Desktop\C#-Level1\Array\bin\Debug\Array.pdb
+C:\Users\charaf eddine jador\Desktop\C#-Level1\Array\obj\Debug\Array.csproj.AssemblyReference.cache
+C:\Users\charaf eddine jador\Desktop\C#-Level1\Array\obj\Debug\Array.csproj.CoreCompileInputs.cache
+C:\Users\charaf eddine jador\Desktop\C#-Level1\Array\obj\Debug\Array.exe
+C:\Users\charaf eddine jador\Desktop\C#-Level1\Array\obj\Debug\Array.pdb

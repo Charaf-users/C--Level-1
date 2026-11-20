@@ -1,0 +1,11 @@
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\pictureBox\bin\Debug\pictureBox.exe.config
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\pictureBox\bin\Debug\pictureBox.exe
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\pictureBox\bin\Debug\pictureBox.pdb
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\pictureBox\obj\Debug\pictureBox.csproj.AssemblyReference.cache
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\pictureBox\obj\Debug\pictureBox.Form1.resources
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\pictureBox\obj\Debug\pictureBox.Properties.Resources.resources
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\pictureBox\obj\Debug\pictureBox.csproj.GenerateResource.cache
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\pictureBox\obj\Debug\pictureBox.csproj.CoreCompileInputs.cache
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\pictureBox\obj\Debug\pictureBox.exe
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\pictureBox\obj\Debug\pictureBox.pdb
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\pictureBox\obj\Debug\pictureBox.exe.config

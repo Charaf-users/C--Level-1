@@ -1,0 +1,11 @@
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\Ex_SettingApp\bin\Debug\Ex_SettingApp.exe.config
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\Ex_SettingApp\bin\Debug\Ex_SettingApp.exe
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\Ex_SettingApp\bin\Debug\Ex_SettingApp.pdb
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\Ex_SettingApp\obj\Debug\Ex_SettingApp.csproj.AssemblyReference.cache
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\Ex_SettingApp\obj\Debug\Ex_SettingApp.Form1.resources
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\Ex_SettingApp\obj\Debug\Ex_SettingApp.Properties.Resources.resources
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\Ex_SettingApp\obj\Debug\Ex_SettingApp.csproj.GenerateResource.cache
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\Ex_SettingApp\obj\Debug\Ex_SettingApp.csproj.CoreCompileInputs.cache
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\Ex_SettingApp\obj\Debug\Ex_SettingApp.exe
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\Ex_SettingApp\obj\Debug\Ex_SettingApp.pdb
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\Ex_SettingApp\obj\Debug\Ex_SettingApp.exe.config

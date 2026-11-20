@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\charaf eddine jador\\OneDrive\\Desktop\\C#-Level1\\MaskedTextBox\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05251F97-92C3-4098-B65B-1BE0C0129170}|MaskedTextBox.csproj|C:\\Users\\charaf eddine jador\\OneDrive\\Desktop\\C#-Level1\\MaskedTextBox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{05251F97-92C3-4098-B65B-1BE0C0129170}|MaskedTextBox.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05251F97-92C3-4098-B65B-1BE0C0129170}|MaskedTextBox.csproj|c:\\users\\charaf eddine jador\\onedrive\\desktop\\c#-level1\\maskedtextbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05251F97-92C3-4098-B65B-1BE0C0129170}|MaskedTextBox.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05251F97-92C3-4098-B65B-1BE0C0129170}|MaskedTextBox.csproj|C:\\Users\\charaf eddine jador\\OneDrive\\Desktop\\C#-Level1\\MaskedTextBox\\combobox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{05251F97-92C3-4098-B65B-1BE0C0129170}|MaskedTextBox.csproj|solutionrelative:combobox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\charaf eddine jador\\OneDrive\\Desktop\\C#-Level1\\MaskedTextBox\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\charaf eddine jador\\OneDrive\\Desktop\\C#-Level1\\MaskedTextBox\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAlwBYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T15:29:11.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ComboBox.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\charaf eddine jador\\OneDrive\\Desktop\\C#-Level1\\MaskedTextBox\\ComboBox.cs",
+              "RelativeDocumentMoniker": "ComboBox.cs",
+              "ToolTip": "C:\\Users\\charaf eddine jador\\OneDrive\\Desktop\\C#-Level1\\MaskedTextBox\\ComboBox.cs [Design]",
+              "RelativeToolTip": "ComboBox.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T15:28:34.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\charaf eddine jador\\OneDrive\\Desktop\\C#-Level1\\MaskedTextBox\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\charaf eddine jador\\OneDrive\\Desktop\\C#-Level1\\MaskedTextBox\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T14:59:32.422Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

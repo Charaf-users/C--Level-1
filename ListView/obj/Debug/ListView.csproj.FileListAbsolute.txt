@@ -1,0 +1,11 @@
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\ListView\bin\Debug\ListView.exe.config
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\ListView\bin\Debug\ListView.exe
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\ListView\bin\Debug\ListView.pdb
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\ListView\obj\Debug\ListView.csproj.AssemblyReference.cache
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\ListView\obj\Debug\ListView.Form1.resources
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\ListView\obj\Debug\ListView.Properties.Resources.resources
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\ListView\obj\Debug\ListView.csproj.GenerateResource.cache
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\ListView\obj\Debug\ListView.csproj.CoreCompileInputs.cache
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\ListView\obj\Debug\ListView.exe
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\ListView\obj\Debug\ListView.pdb
+C:\Users\charaf eddine jador\OneDrive\Desktop\C#-Level1\ListView\obj\Debug\ListView.exe.config
